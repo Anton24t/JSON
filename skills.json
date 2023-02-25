@@ -1,0 +1,10 @@
+{
+	"skills_to_be_learned_on_the_course": {
+						"1":"Basic theory",
+						"2":"What is client-server architecture",
+						"3":"HTTP server request methods",
+						"4":"What is JSON, XML",
+						"5":"Mobile Testing",
+						"6":"Features of iOS, Android"
+	}
+}
