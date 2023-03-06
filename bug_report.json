@@ -1,1 +1,15 @@
-
+{
+    "ID": 1,
+    "Severity": "Trivial",
+    "Priority": "Low",
+    "Environment": "MacOS Ventura",
+    "Title": "Bug 1",
+    "Precondition": "example",
+    "Steps": {
+        "1": "example",
+        "2": "example",
+        "3": "example"    
+    },
+    "Actual_result": "example",
+    "Expected_result": "example"
+}
